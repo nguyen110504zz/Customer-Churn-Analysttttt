@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cvuewBF-JUqw8CwwdFw_-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search-by-number/513052" CVScreenId="5c54c80b-1f3a-4a0f-81aa-725f4b9c17f0" CvType="AnyWordGroup" DesignTimeRectangle="1414, 694, 231, 49" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableCol='5' tableRow='2' tag='TD' /&gt;" Guid="cb92a7bb-083d-46bd-a5a4-cfc7e861702d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Results' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5c54c80b-1f3a-4a0f-81aa-725f4b9c17f0" CvTextArea="1479, 708, 99, 19" CvTextArgument="2018-06-24" CvType="Text" DesignTimeRectangle="1479, 708, 99, 19" ElementType="Text" Guid="71c35492-5ab0-47e0-92c4-3b64604eae0f" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c49f3013d1ef455bd99e89579b5f2b5d.png" xmlns="">0CMWoFxX4y0-m2KU8rS3E7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

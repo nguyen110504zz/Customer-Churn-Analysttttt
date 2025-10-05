@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Dashboard",
+  "Type": "Screen",
+  "Id": "A251BDxSRESdO5A1nAq-eg",
+  "Reference": "NQSuN0wjGEKvucFUsxXgbA/A251BDxSRESdO5A1nAq-eg",
+  "ParentRef": "NQSuN0wjGEKvucFUsxXgbA/yRi9lI5JTka-PpnEKuyvSg",
+  "Created": "2025-09-30T08:11:42.4410631Z",
+  "Updated": "2025-09-30T08:11:42.4410631Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

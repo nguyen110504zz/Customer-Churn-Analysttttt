@@ -1,0 +1,14 @@
+﻿{
+  "Name": "FR121212",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ILTAvZvj1EWO2STx2bkwiw",
+  "Reference": "NQSuN0wjGEKvucFUsxXgbA/ILTAvZvj1EWO2STx2bkwiw",
+  "ParentRef": "NQSuN0wjGEKvucFUsxXgbA/8VvF7S8JWEqWjCQuwl0J-w",
+  "Created": "2025-10-01T07:28:20.8168805Z",
+  "Updated": "2025-10-01T07:28:20.8168805Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
